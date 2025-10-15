@@ -1,0 +1,9 @@
+{
+  "dependencyConfig": {
+    "name": "glm",
+    "libPath": "external/glm",
+    "libs": ["glm"],
+    "version": "1.0.1"
+  },
+  "libraryOptions": {}
+}
